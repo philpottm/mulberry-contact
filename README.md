@@ -1,7 +1,7 @@
-# contact.mulberrysamos.com
+# Retired — contact.mulberrysamos.com now runs on Cloudflare Pages
 
-Contact link page for [Mulberry Residences](https://mulberrysamos.com) — four
-individual stays in Kokkari, Samos. A single static page: no JavaScript, no
-external requests, no tracking.
+The link page is deployed by the `Contact link page` workflow in the private
+source repository to the Cloudflare Pages project `mulberry-contact`, and
+`contact.mulberrysamos.com` resolves there (proxied CNAME).
 
-Published automatically from the private source repo; edit there, not here.
+This GitHub Pages copy is kept only for history; it serves nothing.
